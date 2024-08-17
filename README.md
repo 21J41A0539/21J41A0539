@@ -1,4 +1,6 @@
-package APPS;
+PHAMACY MANAGEMENT
+ 
+ package APPS;
 
 import javax.swing.*;
 import java.awt.*;
